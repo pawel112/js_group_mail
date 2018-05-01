@@ -1,0 +1,25 @@
+{
+  "name": "js_group_mail",
+  "version": "0.0.1",
+  "description": "Group mail, mail, group",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pawel112/js_group_mail.git"
+  },
+  "keywords": [
+    "group",
+    "mail",
+    "mail",
+    "group"
+  ],
+  "author": "pawel112",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pawel112/js_group_mail/issues"
+  },
+  "homepage": "https://github.com/pawel112/js_group_mail#readme"
+}
